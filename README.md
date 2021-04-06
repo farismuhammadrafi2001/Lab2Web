@@ -1,2 +1,2 @@
 # Lab2Web
-Belajar HTML Dasar
+Belajar CSS Dasar
